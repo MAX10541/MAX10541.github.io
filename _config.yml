@@ -63,7 +63,7 @@ linkedin:          qusai-alothman
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
