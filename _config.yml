@@ -28,11 +28,14 @@ sass:
 # Comments
 # disqus_shortname:   taylantatli
 
+# Analytics
+google:
+  analytics: UA-157255424-1
+clicky: 101233497
+
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
-  #analytics:
   #verify:
   #ad-client:
   #ad-slot:
@@ -64,8 +67,6 @@ linkedin:          qusai-alothman
 
 # Gems
 plugins:
-  - jekyll-mentions
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
 
