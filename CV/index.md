@@ -8,10 +8,16 @@ comments: false
 
 # Work Experience
 
-## Senior AI Engineer
-HCI Soft
-December 2018 - Current
+## Creative Software Engineer
+Avanoo  
+March 2019 - Current  
 Key technologies used:
+     Ruby on Rails, Elasticsearch, Python, MySQL, Git, HTML, CSS, Javascript, Selenium
+
+## Senior AI Engineer
+HCI Soft  
+December 2018 - March 2019  
+Key technologies used:  
      Python, Django, SQL, Neo4j, Git, HTML, CSS, Javascript, Selenium
 
 ## Machine Learning and Data Science Instructor
@@ -33,24 +39,21 @@ Key technologies used:
      Python, Java, Elasticsearch, RabbitMQ, PostgreSQL, Redis, Linux,  
      Git, Selenium
 
-# Education
+<hr/>
 
-## Master in Web Sciences
-Syrian Virtual University  
-2018 – 2020 (Expected)
+# Education
 
 ## Bachelor in Information Technology Engineering
 Artificial Intelligence Department - Damascus University  
 2012 – 2017
 
-## High school
-National Center for the Distinguished (NCD)  
+<hr/>
 
 # Training & Voulntery Work
 
 ## Member
 Syrian Society for Scientific Research (SySSR)  
-2015 – Now  
+2015 – 2018  
 website  
 
 ## Cofounder and Coordinator
@@ -72,6 +75,7 @@ Robotic Club in ITE Faculty
 Syrian Researchers Initiative  
 2014-2015  
 
+<hr/>
 
 # Competitions
 

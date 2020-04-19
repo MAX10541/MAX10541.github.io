@@ -1,7 +1,7 @@
 # Site
 title:              Qusai Alothman
-bio:                'Mathematician. Programmer. And between.'
-description:        "a.k.a <b>max10541</b>. <br>Data Scientist, Sofware Engineer, and other semi-random titles."
+bio:                'Mathematician. Programmer. And in-between.'
+description:        "Data Scientist, Sofware Engineer, and something else."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -18,7 +18,7 @@ kramdown:
   auto_ids:         true
   footnote_nr:      1
   entity_output:    as_char
-  toc_levels:       1..6
+  toc_levels:       1..3
   enable_coderay:   false
 mathjax:            true
 sass:
@@ -33,37 +33,13 @@ google:
   analytics: UA-157255424-1
 clicky: 101233497
 
-# Social
-# if you don't have any of social below, comment the line.
+
 #google:
   #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-email:		   alothman.qusai@gmail.com
-#twitter:            username
-#facebook:           username
+email:		          alothman.qusai@gmail.com
 #github-url:         username
-stackoverflow:     9094710/qusai-alothman  # from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          qusai-alothman
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+stackoverflow:      9094710/qusai-alothman
+linkedin:           qusai-alothman
 
 # Gems
 plugins:
