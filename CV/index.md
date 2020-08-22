@@ -1,8 +1,7 @@
 ---
 layout: page
-date:   2019-02-17
 title: CV
-excerpt: "A comprehensive and somewhat boring CV"
+excerpt: "An incomprehensive and somewhat boring CV"
 comments: false
 ---
 
