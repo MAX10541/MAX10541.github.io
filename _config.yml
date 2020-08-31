@@ -27,9 +27,13 @@ sass:
 
 
 # Analytics
+google:
+  analytics: UA-157255424-1
 clicky: 101233497
 
 
+#google:
+  #verify:
 email:		          alothman.qusai@gmail.com
 #github-url:         username
 stackoverflow:      9094710/qusai-alothman
