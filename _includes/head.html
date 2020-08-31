@@ -53,3 +53,6 @@
     {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ site.url }}/{{ feature }}{% endcapture %}{% endunless %}
     <style type="text/css">.feature {background-image:url({{ feature }});}</style>
     {% endif %}
+    {% for dependency in page.dependencies %}
+        {% include dependency.html name=dependency %}
+    {% endfor %}

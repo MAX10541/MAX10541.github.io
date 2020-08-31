@@ -1,0 +1,2 @@
+- name: p5
+  element: <script src="/assets/js/p5.min.js"></script>
