@@ -9,7 +9,6 @@ tag:
 - ProjectEuler
 - math
 - programming
-comments: true
 ---
 # About Project Euler
 

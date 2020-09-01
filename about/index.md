@@ -3,7 +3,6 @@ layout: page
 title: About me and this site
 tags: [about]
 date: 2019-02-14
-comments: false
 ---
 Hi there!
 

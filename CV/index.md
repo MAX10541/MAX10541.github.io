@@ -2,7 +2,6 @@
 layout: page
 title: CV
 excerpt: "An incomprehensive and somewhat boring CV"
-comments: false
 ---
 
 # Work Experience
