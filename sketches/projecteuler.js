@@ -51,7 +51,7 @@ var chart3 = new Chart("solvedPerMonth", {
     data: {
         labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
         datasets: [{
-            label: 'Problems Solved Per Month Name',
+            label: 'Problems Solved Per Month',
             backgroundColor: backgroundColor,
             borderColor: borderColor,
             data: [20, 15, 29, 2, 7, 101, 25, 6, 18, 27, 4, 21]
@@ -66,7 +66,7 @@ var chart4 = new Chart("solvedPerDay", {
     data: {
         labels: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         datasets: [{
-            label: 'Problems Solved Per Day',
+            label: 'Problems Solved Per Day of Week',
             backgroundColor: backgroundColor,
             borderColor: borderColor,
             data: [38, 52, 43, 47, 32, 26, 37]
